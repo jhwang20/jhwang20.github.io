@@ -1,42 +1,41 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1> About Me </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+Greetings! I am John Hwang. I am a student at The University of Texas at Austin pursuing a Bachelor of Business Administration in Finance and a Master of Science in Business Analytics with anticipated graduation in May 2025. 
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+To explore my interest in the overlap between financial markets and data science, I pursued the Google Data Analytics Professional Certificate in December 2022 to learn more about how data science is applied within traditional finance sectors to improve financial planning and automate mundane tasks. 
 
-<h2>📺 Popular YouTube Videos</h2>
+With my passion to further develop my skills in data analytics, I enrolled in UT Austin's rigorous 10-month Master of Science in Business Analytics program in May 2023 to merge my programming and machine learning skills with finance to solve real-world business cases.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+I am seeking Summer 2024 internship opportunities within quantitative trading and data science that will allow me to utilize my technical abilities to make an impact within traditional financial sectors.
 
+<h2>🌱 Relevent Courseworks:</h2>
+
+- Introduction to Machine Learning
+
+- Data Science Programming
+  
+- Data Science for Business Applications
+  
+- Corporate Finance
+  
+- Financial Accounting
+  
+- Cost Accounting
+
+<h2>👨‍💻 Data Science Projects:</h2>
+
+- <b>Loan Approval Prediction</b>
+  - [Loan Approval Prediction Project](https://github.com/jhwang20/Loan-Approval-Prediction-Project)
+- <b>Student Academic Performance Prediction</b>
+  - [Academic Performance Prediction Project](https://github.com/jhwang20/AcademicPerformancePredictionPredictionProject) 
+- <b>Neural Network Image Classification Prediction</b>
+  - [Neural Network Image Classiciation Project](https://github.com/jhwang20/NeuralNetworkImageClassificationProject)
+  
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="John Hwang | LinkedIn" width="22px" src="https://www.linkedin.com/in/jaehwan-hwang/" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/jaehwan-hwang/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
