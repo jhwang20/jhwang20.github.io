@@ -18,10 +18,10 @@ Greetings! I am John Hwang. I am a student at The University of Texas at Austin 
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Loan Approval Prediction</b>
-  - [Loan Approval Prediction Project](https://github.com/jhwang20/Loan-Approval-Prediction-Project)
 - <b>Student Academic Performance Prediction</b>
-  - [Academic Performance Prediction Project](https://github.com/jhwang20/AcademicPerformancePredictionPredictionProject) 
+  - [Student Academic Performance Prediction Project](https://github.com/jhwang20/Loan-Approval-Prediction-Project)
+- <b>Loan Approval Prediction</b>
+  - [Loan Approval Prediction Project](https://github.com/jhwang20/AcademicPerformancePredictionPredictionProject) 
 - <b>Neural Network Image Classification Prediction</b>
   - [Neural Network Image Classiciation Project](https://github.com/jhwang20/NeuralNetworkImageClassificationProject)
   
