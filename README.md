@@ -2,10 +2,6 @@
 
 Greetings! I am John Hwang. I am a student at The University of Texas at Austin pursuing a Bachelor of Business Administration in Finance and a Master of Science in Business Analytics with anticipated graduation in May 2025. 
 
-To explore my interest in the overlap between financial markets and data science, I pursued the Google Data Analytics Professional Certificate in December 2022 to learn more about how data science is applied within traditional finance sectors to improve financial planning and automate mundane tasks. 
-
-With my passion to further develop my skills in data analytics, I enrolled in UT Austin's rigorous 10-month Master of Science in Business Analytics program in May 2023 to merge my programming and machine learning skills with finance to solve real-world business cases.
-
 <h2>🌱 Relevent Courseworks:</h2>
 
 - Introduction to Machine Learning
