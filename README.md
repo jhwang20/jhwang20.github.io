@@ -2,6 +2,8 @@
 
 Greetings! I am John Hwang. I am a student at The University of Texas at Austin pursuing a Bachelor of Business Administration in Finance and a Master of Science in Business Analytics with anticipated graduation in May 2025. 
 
+The following links are some of the projects that I have worked on with fellow teammates! 
+
 <h2>🌱 Relevent Courseworks:</h2>
 
 - Introduction to Machine Learning
