@@ -5,11 +5,21 @@ Greetings! I am John, and I’m a passionate advocate for leveraging Artificial 
 The following links are some of the cutting-edge projects that I have worked on during my time as a student at UT Austin!
 <h2>🌱 Relevent Courseworks:</h2>
 
-- Applied Machine Learning
+- Advanced Machine Learning
 
 - Data Science Programming
-  
-- Data Science for Business Applications
+
+- Unstructured Data Analaytics
+
+- Information & Database Management
+
+- Optimization
+
+- Supply Chain Analytics
+
+- Supply Chain Analaytics
+
+- Time Series Analysis
 
 - Investment Management
 
@@ -22,6 +32,8 @@ The following links are some of the cutting-edge projects that I have worked on 
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
+- <b>General Motors EV Charger Optimization Casptone</b>
+  - [General Motors EV Charger Optimization Capstone](https://github.com/girirohan36/GeneralMotors_Capstone)
 - <b>Student Academic Performance Prediction</b>
   - [Student Academic Performance Prediction Project](https://github.com/jhwang20/Loan-Approval-Prediction-Project)
 - <b>Loan Approval Prediction</b>
