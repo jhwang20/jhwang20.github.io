@@ -32,6 +32,8 @@ The following links are some of the cutting-edge projects that I have worked on 
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
+- <b>Deep Learning Approach to Connect 4 using CNN and RNN
+  - [Deep Learning Approach to Connect4 using CNN and RNN](https://github.com/jennamferguson/Project1_Connect4)
 - <b>General Motors EV Charger Optimization Casptone</b>
   - [General Motors EV Charger Optimization Capstone](https://github.com/girirohan36/GeneralMotors_Capstone)
 - <b>Student Academic Performance Prediction</b>
