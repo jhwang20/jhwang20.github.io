@@ -1,10 +1,10 @@
-# Hi, I’m **Jaehwan Hwang** 👋  
+# Hi, I’m **Jaehwan Hwang**  
 
 I recently earned an M.S. in Business Analytics from UT Austin, building on a B.B.A. in Finance. I turn data—structured or messy—into products and insights that move the needle for users and the business.
 
 ---
 
-## 🔧 Technical Toolkit
+## Technical Toolkit
 
 | Category | Tools / Methods |
 | -------- | --------------- |
@@ -15,13 +15,13 @@ I recently earned an M.S. in Business Analytics from UT Austin, building on a B.
 
 ---
 
-## 📚 Graduate Coursework (selected)
+## Graduate Coursework
 
 Supervised & Unsupervised Machine Learning • Data Science Programming • Information & Database Management • Model & Database Optimization • Unstructured Data Analytics • Supply Chain Analytics • Time-Series Analysis
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What I Did | Tech Highlights |
 | ------- | ---------- | --------------- |
@@ -35,7 +35,7 @@ Supervised & Unsupervised Machine Learning • Data Science Programming • Info
 
 ---
 
-## 📈 Experience Snapshot
+## Experience Snapshot
 
 - **Product Management Intern, Dell Technologies** – LLM deployment & customer analytics
 - **Data Science Intern, Cherry Bekaert Advisory** – Bayesian demand forecasting  
@@ -43,7 +43,7 @@ Supervised & Unsupervised Machine Learning • Data Science Programming • Info
 
 ---
 
-## 🌐 Let’s Connect
+## Let’s Connect
 
 - 📧 johnh7363@gmail.com &nbsp;•&nbsp; 📱 (469) 407-0781  
 - 🔗 [GitHub](https://github.com/jhwang20) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/jaehwan-hwang)
