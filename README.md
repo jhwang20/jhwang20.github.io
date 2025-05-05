@@ -26,16 +26,19 @@ Supervised & Unsupervised Machine Learning • Data Science Programming • Info
 
 | Project | What I Did | Tech Highlights |
 | ------- | ---------- | --------------- |
-| **Connect4 AI – Deep-Learning Game Solver** (Jan 2025 – Mar 2025) | Trained **CNN** and **Transformer** models that predict optimal moves with 90 % accuracy; deployed on **AWS** with an **Anvil** Python front-end for interactive play. | PyTorch · AWS (EC2/S3) · Anvil |
-| **EV Charger Placement for GM** (Jan 2025 – Mar 2025) | Built a geospatial model to pinpoint 100 optimal DC fast-charger zip-codes across Tennessee, blending EV-ownership, demographics, and infra-gap data. | Pandas/GeoPandas · Tableau · Gurobi |
-| **Dell LLM Deployment Demo** (May 2024 – Jul 2024) | Created a step-by-step interactive demo on **Hugging Face + Gradio**, boosting platform engagement 35 %. Analyzed 5 k+ user interactions to tailor the asset. | Hugging Face · Gradio · Python · RAG |
-| **Bayesian Demand Forecasting** – Cherry Bekaert (May 2023 – Aug 2023) | Designed a Bayesian model that cut restaurant wait times 15 % and trimmed non-peak staffing costs 12 %. | Python · Bayesian Inference · Oracle SQL |
+| [**Dell LLM Deployment & Demo**](https://democenter.dell.com/interactive/ITD-1318) <br>(May 2024 – Jul 2024) | Built an interactive walkthrough for deploying Hugging Face LLMs; analyzed 5 k+ user interactions to tailor the asset and boost engagement. | Hugging Face · Gradio · Python · RAG |
+| [**Connect4 AI – Deep-Learning Game Solver**](https://github.com/jennamferguson/Project1_Connect4) <br>(Jan 2025 – Mar 2025) | Trained CNN & RNN models to predict optimal moves (~90 % accuracy) and served the agent via an AWS-backed Anvil front-end. | PyTorch · AWS (EC2/S3) · Anvil |
+| [**EV Charger Optimization – GM Capstone**](https://github.com/girirohan36/GeneralMotors_Capstone) <br>(Jan 2025 – Mar 2025) | Developed a geospatial model and MIP to select 100 optimal DC fast-charger sites across Tennessee. | Pandas/GeoPandas · Gurobi · Tableau |
+| [**Student Academic Performance Prediction**](https://github.com/jhwang20/AcademicPerformancePredictionPredictionProject) <br>(2024) | Built supervised-learning pipelines to forecast student outcomes and benchmarked tree-based vs. linear models. | Python · Scikit-learn · Pandas |
+| [**Loan Approval Prediction**](https://github.com/jhwang20/Loan-Approval-Prediction-Project) <br>(2024) | Engineered features and trained classifiers to predict loan approvals, focusing on fairness and interpretability. | Python · Scikit-learn · Pandas |
+| [**Neural Network Image Classification**](https://github.com/jhwang20/NeuralNetworkImageClassificationProject) <br>(2024) | Implemented a CNN to classify images, experimenting with data augmentation to improve accuracy. | TensorFlow/Keras · CNN · Matplotlib |
+
 
 ---
 
 ## 📈 Experience Snapshot
 
-- **Product Management Intern, Dell Technologies** – LLM demo & customer analytics  
+- **Product Management Intern, Dell Technologies** – LLM deployment & customer analytics
 - **Data Science Intern, Cherry Bekaert Advisory** – Bayesian demand forecasting  
 - **Data Analyst Intern, Vapor IO** – Financial trend analysis & reporting automation  
 
