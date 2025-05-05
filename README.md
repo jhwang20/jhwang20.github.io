@@ -21,12 +21,13 @@ Supervised & Unsupervised Machine Learning • Data Science Programming • Info
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 | Project | What I Did | Tech Highlights |
 | ------- | ---------- | --------------- |
 | [**Dell LLM Deployment & Demo**](https://democenter.dell.com/interactive/ITD-1318) <br>(May 2024 – Jul 2024) | Built an interactive walkthrough for deploying Hugging Face LLMs; analyzed 5 k+ user interactions to tailor the asset and boost engagement. | Hugging Face · Gradio · Python · RAG |
 | [**Connect4 AI – Deep-Learning Game Solver**](https://github.com/jennamferguson/Project1_Connect4) <br>(Jan 2025 – Mar 2025) | Trained CNN & RNN models to predict optimal moves (~90 % accuracy) and served the agent via an AWS-backed Anvil front-end. | PyTorch · AWS (EC2/S3) · Anvil |
+| [**Connect4 RL – DQN & Policy Gradient**](https://github.com/jhwang20/Connect4-Reinforcement-Learning-using-DQN-and-Policy-Gradient) <br>(Apr 2025 – May 2025) | Implemented reinforcement-learning agents (DQN & REINFORCE) trained via self-play against pre-trained CNN opponents, achieving >80 % win rate. | PyTorch · DQN · Policy Gradient · Experience Replay |
 | [**EV Charger Optimization – GM Capstone**](https://github.com/girirohan36/GeneralMotors_Capstone) <br>(Jan 2025 – Mar 2025) | Developed a geospatial model and MIP to select 100 optimal DC fast-charger sites across Tennessee. | Pandas/GeoPandas · Gurobi · Tableau |
 | [**Student Academic Performance Prediction**](https://github.com/jhwang20/AcademicPerformancePredictionPredictionProject) <br>(2024) | Built supervised-learning pipelines to forecast student outcomes and benchmarked tree-based vs. linear models. | Python · Scikit-learn · Pandas |
 | [**Loan Approval Prediction**](https://github.com/jhwang20/Loan-Approval-Prediction-Project) <br>(2024) | Engineered features and trained classifiers to predict loan approvals, focusing on fairness and interpretability. | Python · Scikit-learn · Pandas |
